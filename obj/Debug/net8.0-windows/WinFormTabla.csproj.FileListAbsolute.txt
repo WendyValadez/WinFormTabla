@@ -1,0 +1,17 @@
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\bin\Debug\net8.0-windows\WinFormTabla.exe
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\bin\Debug\net8.0-windows\WinFormTabla.deps.json
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\bin\Debug\net8.0-windows\WinFormTabla.runtimeconfig.json
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\bin\Debug\net8.0-windows\WinFormTabla.dll
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\bin\Debug\net8.0-windows\WinFormTabla.pdb
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.Form1.resources
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.Properties.Resources.resources
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.csproj.GenerateResource.cache
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.AssemblyInfoInputs.cache
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.AssemblyInfo.cs
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.csproj.CoreCompileInputs.cache
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.dll
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\refint\WinFormTabla.dll
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.pdb
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\WinFormTabla.genruntimeconfig.cache
+C:\Users\herre\Documents\PROGRAMACION_II\Windows Form\WinFormTabla\WinFormTabla\obj\Debug\net8.0-windows\ref\WinFormTabla.dll
